@@ -25,7 +25,7 @@ Future work proposed for the study of V44 and V1515 alloys with respect to nucle
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution 4.0 International License][cc-by] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [Creative Commons Attribution 4.0 International License][cc-by] - see the [LICENSE-CC-BY.txt](LICENSE-CC-BY.txt) file for details.
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
