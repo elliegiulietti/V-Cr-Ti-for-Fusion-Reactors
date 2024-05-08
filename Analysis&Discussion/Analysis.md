@@ -36,8 +36,7 @@ The evaluated results for Experiment 1 can be seen in [Table 1](#exp-1-results-t
 | 1-9          | 150       | 1250         | 6.5                      | SSC          |
 
 
-A graph with a color bar describing the crack density was made to understand the relationship between laser speed, power and crack density, this is seen in [Colour map graph of a variation of Power and Speed with Crack Density for Experiment 1, with labels indicating the melt track reference numbers, where the X displays the melt tracks which were too cracked and destroyed to measure a crack density.](Analysis&Discussion
-/Variation of Power and Speed with Crack Density_exp1_colourmap_cool.png)
+A graph with a color bar describing the crack density was made to understand the relationship between laser speed, power and crack density, this is seen in [Colour map graph of a variation of Power and Speed with Crack Density for Experiment 1, with labels indicating the melt track reference numbers, where the X displays the melt tracks which were too cracked and destroyed to measure a crack density.](exp1_colourmap_cool.png)
 
 ### Experiment 2 Analysis
 
@@ -64,8 +63,7 @@ A graph with a color bar describing the crack density was made to understand the
 | 2-16         | 210       | 1125         | 21.4                     | SC + SSC      |
 | 2-17         | 235       | 1125         | 21.9                     | SC + SSC      |
 
-A graph with a color bar describing the crack density was made to understand the relationship between laser speed, power and crack density, this is seen in [Colour map graph of a variation of Power and Speed with Crack Density for Experiment 2, with labels indicating the melt track reference numbers.](Analysis&Discussion
-/Variation of Power and Speed with Crack Density_exp2_colourmap_cool.png)
+A graph with a color bar describing the crack density was made to understand the relationship between laser speed, power and crack density, this is seen in [Colour map graph of a variation of Power and Speed with Crack Density for Experiment 2, with labels indicating the melt track reference numbers.](exp2_colourmap_cool.png)
 
 ### Experiment 3 Analysis
 
@@ -92,6 +90,5 @@ A graph with a color bar describing the crack density was made to understand the
 | 3-17         | 355       | 720          | 34.6                     | SSC (CC) + SC        |
 | 3-18         | 390       | 1250         | 44.2                     | SSC (CC) + SC        |
 
-A graph with a color bar describing the crack density was made to understand the relationship between laser speed, power and crack density, this is seen in [Colour map graph of a variation of Power and Speed with Crack Density for Experiment 3, with labels indicating the melt track reference numbers, where the X displays the melt tracks which were too cracked and destroyed to measure a crack density.](Analysis&Discussion
-/Variation of Power and Speed with Crack Density_exp2_colourmap_cool.png)
+A graph with a color bar describing the crack density was made to understand the relationship between laser speed, power and crack density, this is seen in [Colour map graph of a variation of Power and Speed with Crack Density for Experiment 3, with labels indicating the melt track reference numbers, where the X displays the melt tracks which were too cracked and destroyed to measure a crack density.](exp3_colourmap_cool.png)
 
