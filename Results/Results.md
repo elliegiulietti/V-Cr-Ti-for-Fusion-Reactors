@@ -32,4 +32,4 @@ The SEM images are shown in [SEM imaging of Experiment 3 cross section, a) 3-1 S
 
 ## Raw results
 
-The raw images can be seen in [Raw results](Raw_images).
+The raw images can be seen in [Raw results](Raw_images) with their correlating melt track reference numbers.
