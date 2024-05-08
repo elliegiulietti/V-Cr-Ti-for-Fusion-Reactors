@@ -14,13 +14,13 @@ This repository holds the infromation from a General Engineering Masters dissert
 
 Following an extensive literature review, three melt track tests were done to assess the viability of vanadium alloys, V44 and V1515, for additive manufacturing (AM). The AM machine used was an Aconity Lab LPBF machine. 
 
-The melt track tests were set up using a deign of experiments, varying two laser parameters- laser power and laser speed. The set up procedure and sample preparation can be seen in [Experimental set up](Experiment-set-up.md)
+The melt track tests were set up using a deign of experiments, varying two laser parameters- laser power and laser speed. The set up procedure and sample preparation can be seen in [Experimental set up](Experiment_set-up/Experiment-set-up.md)
 
-The results of the tests were in the form of microscope images using xx at the Royce Bulding, and SEM images using xx at the University of Sheffield. The raw results can be seen in [Results](Results.md)
+The results of the tests were in the form of microscope images using xx at the Royce Bulding, and SEM images using xx at the University of Sheffield. The raw results can be seen in [Results](Results/Results.md)
 
-The results were analysed using qualitative and quantative methods. Qualitative included identifying the crack types in the melt tracks, and quantative analysis was through ImageJ software and determining the crack density. The analysis and discussion of the results can be seen in [Analysis](Analysis.md)
+The results were analysed using qualitative and quantative methods. Qualitative included identifying the crack types in the melt tracks, and quantative analysis was through ImageJ software and determining the crack density. The analysis and discussion of the results can be seen in [Analysis](Analysis&Discussion/Analysis.md)
 
-Future work proposed for the study of V44 and V1515 alloys with respect to nuclear fusion applications and additive manufacturing procedures can be seen in [Future Predicted work](Future_work.md)
+Future work proposed for the study of V44 and V1515 alloys with respect to nuclear fusion applications and additive manufacturing procedures can be seen in [Analysis&Discussion/Future Predicted work](Future_work.md)
 
 
 ## License
