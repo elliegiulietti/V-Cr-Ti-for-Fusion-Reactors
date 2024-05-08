@@ -51,6 +51,12 @@ Future work proposed for the study of V44 and V1515 alloys with respect to nucle
 The thesis 'Vanadium Alloys for Fusion Reactors: Determining their
 Viability for Additive Manufacturing Procedures.' is available [here]().
 
+Submitted May 2024
+
+Author: Ellie Anna Giulietti
+
+Supervisor: Dr Russell Goodall
+
 ## License
 
 This project is licensed under the [Creative Commons Attribution 4.0 International License][cc-by] - see the [LICENSE-CC-BY.txt](LICENSE-CC-BY.txt) file for details.
