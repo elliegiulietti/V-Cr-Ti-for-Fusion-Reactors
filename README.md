@@ -10,7 +10,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 Vanadium Alloys for Fusion Reactors: Assessing Their Viability for Additive Manufacturing
 
-This repository holds the infromation from a General Engineering Masters dissertation from the University of Sheffield by Ellie Giulietti, May 2024. 
+This repository contains information from a General Engineering Masters dissertation from the University of Sheffield by Ellie Giulietti, May 2024. 
 
 ## Project Summary
 
