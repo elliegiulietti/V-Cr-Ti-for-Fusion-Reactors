@@ -1,6 +1,6 @@
 # Analysis 
 For crack type analysis, the three types of solid state cracks (SSC), strain age crack, ductility-dip crack and cold cracks, will all be categorised as SSC unless the crack type is very clear, differentiating between the three generally requires further analysis. Similarly for solidification cracks (SC) and liquation cracks (LC), they will be grouped together and identified as SC throughout the analysis and discussion. To differentiate between SC and LC, more information about the V44 and V1515 alloys and their grain boundary phases is required, visually the two crack types are similar and both occur in the same phase, unlike SSC. 
-The crack analysis of the images can be seen in [Collage of optical top view images with crack types and visible deformations defined from a to f showing the different melt tracks. Solidification Cracking (SC), Solid-State Cracking (SSC), Cold Cracking (CC)]()
+The crack analysis of the images can be seen in [Collage of optical top view images with crack types and visible deformations defined from a to f showing the different melt tracks. Solidification Cracking (SC), Solid-State Cracking (SSC), Cold Cracking (CC)](Crack type collage.pdf)
 , where examples of SC and SSC are highlighted on the melt tracks. 
 
 ## Error Analysis
@@ -39,7 +39,7 @@ The evaluated results for Experiment 1 can be seen in [Table 1](#exp-1-results-t
 | 1-9          | 150       | 1250         | 6.5                      | SSC          |
 
 
-A graph with a color bar describing the crack density was made to understand the relationship between laser speed, power and crack density, this is seen in [Colour map graph of a variation of Power and Speed with Crack Density for Experiment 1, with labels indicating the melt track reference numbers, where the X displays the melt tracks which were too cracked and destroyed to measure a crack density.]()
+A graph with a color bar describing the crack density was made to understand the relationship between laser speed, power and crack density, this is seen in [Colour map graph of a variation of Power and Speed with Crack Density for Experiment 1, with labels indicating the melt track reference numbers, where the X displays the melt tracks which were too cracked and destroyed to measure a crack density.](Variation of Power and Speed with Crack Density_exp1_colourmap_cool.png)
 
 ### Experiment 2 Analysis
 
@@ -66,7 +66,7 @@ A graph with a color bar describing the crack density was made to understand the
 | 2-16         | 210       | 1125         | 21.4                     | SC + SSC      |
 | 2-17         | 235       | 1125         | 21.9                     | SC + SSC      |
 
-A graph with a color bar describing the crack density was made to understand the relationship between laser speed, power and crack density, this is seen in [Colour map graph of a variation of Power and Speed with Crack Density for Experiment 2, with labels indicating the melt track reference numbers.]()
+A graph with a color bar describing the crack density was made to understand the relationship between laser speed, power and crack density, this is seen in [Colour map graph of a variation of Power and Speed with Crack Density for Experiment 2, with labels indicating the melt track reference numbers.](Variation of Power and Speed with Crack Density_exp2_colourmap_cool.png)
 
 ### Experiment 3 Analysis
 
@@ -93,5 +93,5 @@ A graph with a color bar describing the crack density was made to understand the
 | 3-17         | 355       | 720          | 34.6                     | SSC (CC) + SC        |
 | 3-18         | 390       | 1250         | 44.2                     | SSC (CC) + SC        |
 
-A graph with a color bar describing the crack density was made to understand the relationship between laser speed, power and crack density, this is seen in [Colour map graph of a variation of Power and Speed with Crack Density for Experiment 3, with labels indicating the melt track reference numbers, where the X displays the melt tracks which were too cracked and destroyed to measure a crack density.]()
+A graph with a color bar describing the crack density was made to understand the relationship between laser speed, power and crack density, this is seen in [Colour map graph of a variation of Power and Speed with Crack Density for Experiment 3, with labels indicating the melt track reference numbers, where the X displays the melt tracks which were too cracked and destroyed to measure a crack density.](Variation of Power and Speed with Crack Density_exp2_colourmap_cool.png)
 
