@@ -1,7 +1,6 @@
 # Analysis 
 For crack type analysis, the three types of solid state cracks (SSC), strain age crack, ductility-dip crack and cold cracks, will all be categorised as SSC unless the crack type is very clear, differentiating between the three generally requires further analysis. Similarly for solidification cracks (SC) and liquation cracks (LC), they will be grouped together and identified as SC throughout the analysis and discussion. To differentiate between SC and LC, more information about the V44 and V1515 alloys and their grain boundary phases is required, visually the two crack types are similar and both occur in the same phase, unlike SSC. 
-The crack analysis of the images can be seen in [Collage of optical top view images with crack types and visible deformations defined from a to f showing the different melt tracks. Solidification Cracking (SC), Solid-State Cracking (SSC), Cold Cracking (CC)](Analysis&Discussion
-/Crack type collage.pdf)
+The crack analysis of the images can be seen in [Collage of optical top view images with crack types and visible deformations defined from a to f showing the different melt tracks. Solidification Cracking (SC), Solid-State Cracking (SSC), Cold Cracking (CC)](Crack_type_collage.pdf)
 , where examples of SC and SSC are highlighted on the melt tracks. 
 
 ## Error Analysis
