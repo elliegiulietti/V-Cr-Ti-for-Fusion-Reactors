@@ -50,7 +50,7 @@ The DOE can be seen in [Design of Experiment with Power and Speed variables for 
 
 The setup for each experiment remained consistent, with the primary difference being the adjustment of laser speed and power, as well as the testing of the V1515 alloy in Experiment 3, compared to the V44 alloy tested in Experiments 1 and 2. The hatch spacing, set to 0.3 mm.
 For Experiment 1, both single and hatch melt tracks were tested. Given the early stage of the testing and lack of data on vanadium alloy melt tracks, both approaches were tested to gain comprehensive data and to determine the most suitable technique for understanding the effect of laser parameters on the alloys. 
-The orientation of the melt tracks can be seen [Melt track orientation with single tracks and hatch sections, with d showing the distance between sections and w showing the section width.]()
+The orientation of the melt tracks can be seen [Melt track orientation with single tracks and hatch sections, with d showing the distance between sections and w showing the section width.](V alloy set up exp1.pdf)
 
 The fixed parameters are detailed below:
 
@@ -93,6 +93,7 @@ The test parameters for Experiment 1 are shown below:
 ## Experiment 2 and 3
 
 The setup methodology for Experiment 2 and 3 closely resembled that of Experiment 1, with slight variations in fixed parameters. Notably, only hatching tracks were tested, as single tracks gave insignificant results from Experiment 1.
+
 To optimise time and machine efficiency, Experiment 2 and Experiment 3 were performed at the same time on the LPBF machine. Both the V44 and V1515 samples for Experiment 2 and 3 had two available samples to use. An operational glitch occurred during the initial run and performed the melt tracks twice for the V1515 alloy and a misalignment occurred leading to the melting of the bakelite during the V44 alloy run. Consequently, the second sample set for these alloys was used.
 
 The fixed parameters are detailed below:
@@ -160,6 +161,6 @@ The test parameters for Experiment 3 are shown below:
 
 ## Preparation for Analysis
 
-After completing the experiments, the samples required preparation for optical imaging and Scanning Electron Microscopy (SEM) analysis. Top-view optical imaging could be performed immediately following the melt track experiments, requiring no additional preparation. However, for cross-sectional views of the melt tracks, the samples were bisected along the center of the melt tracks using the Isomet 5000. They were then removed from the previous bakelite mount and re-mounted in conductive bakelite, with the top of the sample as the cross-section using the Simplimet Mounting Press 1000. \\
+After completing the experiments, the samples required preparation for optical imaging and Scanning Electron Microscopy (SEM) analysis. Top-view optical imaging could be performed immediately following the melt track experiments, requiring no additional preparation. However, for cross-sectional views of the melt tracks, the samples were bisected along the center of the melt tracks using the Isomet 5000. They were then removed from the previous bakelite mount and re-mounted in conductive bakelite, with the top of the sample as the cross-section using the Simplimet Mounting Press 1000.\
 
 To correlate the sample surface with their respective melt tracks, each half of the bisected samples was mounted together in a PAC-man configuration. The samples were then subjected to grinding and polishing on the Automet 250 using standard micropreparation practices, with a surface finish of 0.05 μm Colloidal Silica.
